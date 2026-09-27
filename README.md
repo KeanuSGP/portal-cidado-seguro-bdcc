@@ -4,6 +4,8 @@ API REST desenvolvida para o **Portal Cidadão Seguro**, projeto acadêmico da d
 
 O sistema tem como objetivo disponibilizar uma API para gerenciamento de **usuários, categorias e solicitações de zeladoria urbana**, permitindo que cidadãos registrem problemas encontrados na cidade e acompanhem suas solicitações.
 
+Link: http://portalcidadaoseguro-env.eba-crnmfmse.us-east-1.elasticbeanstalk.com/api/
+
 ---
 
 ## 📋 Sumário
